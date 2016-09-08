@@ -15,8 +15,11 @@ my Hobbies
 my Qualification
 
 1) MSc
+
 2) Bsc
+
 3) Inter
+
 4) 10th
 
 
