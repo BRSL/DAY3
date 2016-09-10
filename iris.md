@@ -40,3 +40,5 @@ barplot(r)
 ```
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-1.png)
+
+![](figure/unnamed-chunk-4-1.png)
