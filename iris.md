@@ -31,3 +31,12 @@ print(tot.dist)
 ```
 ## [1] 2136
 ```
+
+## Graphical representation of Distance travlled before each stop
+
+```r
+r <- diff(dist)
+barplot(r)
+```
+
+![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-1.png)
